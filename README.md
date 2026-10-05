@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
-<h3 align="center">Backend & Systems Engineer · Turning caffeine into Go binaries and zero-downtime migrations</h3>
+<h3 align="center">Backend & Systems Engineer · Turning caffeine into Go binaries</h3>
 
 <p align="center">
   <a href="https://portfolio-website-x41o.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00ADD8?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
